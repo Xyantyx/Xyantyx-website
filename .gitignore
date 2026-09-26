@@ -1,0 +1,6 @@
+# Never track hosting/account credential files
+*login*.docx
+*credentials*.docx
+~$*
+New 20i Account/
+Old StackCP account/
